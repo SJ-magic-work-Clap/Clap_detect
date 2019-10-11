@@ -279,7 +279,7 @@ private:
 	};
 	
 	enum{
-		NUM_SAMPLE_ADJUSTSCALE = 10,
+		NUM_SAMPLE_ADJUSTSCALE = 9,
 	};
 	
 	/****************************************

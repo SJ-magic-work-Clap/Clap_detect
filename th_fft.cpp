@@ -484,7 +484,7 @@ double THREAD_FFT::get_center_of_array(double* array, int from, int to)
 ******************************/
 double THREAD_FFT::get_Lower_of_array(double* array, int from, int to)
 {
-	return get_ratio_of_array(array, from, to, 0.7);
+	return get_ratio_of_array(array, from, to, 0.8);
 }
 
 /******************************
